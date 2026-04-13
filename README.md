@@ -2,5 +2,5 @@
 We are developing a metric to identify potential breakout soccer players for the 2026 World Cup.
 
 $$
-\text{Breakout Index} = \frac{(xG_{90} + xA_{90})\times P_{\text{progression}}}{M_{\text{scaled}}}
+Breakout Index = (xG90 + xA90) \times P_{Progression)
 $$
